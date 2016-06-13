@@ -1,14 +1,14 @@
-layout_spectrum: 0.6605810248292983
-typography_spectrum: 0.2361886822618544
+layout_spectrum: 0.9549742497038096
+typography_spectrum: 0.521636001765728
 color:
-  brandStrength: 0.42667470104061067
-  lightness: 0.8576356542762369
-  saturation: 0.285412973491475
-  rhythmicContrast: 0.005001518176868558
+  brandStrength: 0.22662888350896537
+  lightness: 0.28506621648557484
+  saturation: 0.7788538269232959
+  rhythmicContrast: 0.5475922513287514
   brandColors:
-    - '#6B0C22'
-    - '#D9042B'
-    - '#F4CB89'
-    - '#588C8C'
-    - '#011C26'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Leave Me With My Big Dreams
